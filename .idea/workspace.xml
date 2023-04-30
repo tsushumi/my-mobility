@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="349a0366-5c4a-4561-836f-b4f2fd9a4c90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/mymobility_flutter/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/circle_loader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/default_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/final_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/accountancy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/arts-crafts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/astrology.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/automotive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/bars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/birds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/books-media.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/breakfast-n-brunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/business.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/cake-shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/clothings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/clubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/coffee-n-tea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/commercial-places.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/community.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/computers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/concerts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/cookbooks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/dance-clubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/dental.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/doctors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/education.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/electronics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/employment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/engineering.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/entertainment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/event.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/exhibitions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/fashion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/festivals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/financial-services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/furniture-stores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/games.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/gifts-flowers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/government.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/halloween.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/health-medical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/home-services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/hotels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/industries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/internet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/jewelry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/jobs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/karaoke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/law.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/lawn-garden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/libraries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/local-services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/lounges.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/magazines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/manufacturing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/marker-new1_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/mass-media.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/massage-therapy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/matrimonial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/medical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/meetups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/miscellaneous-for-sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/mobile-phones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/movies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/museums.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/musical-instruments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/musical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/nightlife.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/parks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/parties.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/pets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/photography.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/places.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/play-schools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/playgrounds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/pool-halls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/printing-graphic-arts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/professional.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/real-estate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/religious-organizations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/residential-places.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/restaurants.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/retail-stores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/saloon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/schools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/science.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/shopping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/sporting-goods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/sports.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/swimming-pools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/telemarketing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/tickets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/tiffin-services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/tires-accessories.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/tools-hardware.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/tours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/toys-store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/transport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/travel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/tutors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mapicons/vacant-land.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/profile_picture.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/reusable_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/text_field_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/user_preferences.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/auto_complete_result.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/navigation/go_router_notifier.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/navigation/go_router_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/navigation/navigation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/dashboard_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/search_places.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/bookmarks_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/edit_profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/map_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/more_info_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/no_connection_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/settings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/splash_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/map_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P9mVdt9xZ9kC3RC3bVnLkaLmL7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="349a0366-5c4a-4561-836f-b4f2fd9a4c90" name="Changes" comment="" />
+      <created>1682877699029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682877699029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
